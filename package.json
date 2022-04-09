@@ -12,6 +12,6 @@
     "@ask-utils/proactive-event": "^0.2.3",
     "aws-sdk": "^2.474.0",
     "axios": "^0.19.0",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
